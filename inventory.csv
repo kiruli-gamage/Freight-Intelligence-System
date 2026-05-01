@@ -1,0 +1,31 @@
+Cargo_ID,Description,Current_Load,Max_Capacity,Daily_Throughput,Location,Category,Supplier_ID,Destination,Priority_Level,Last_Inspected,Freight_Cost_USD,Vessel_Name,Weight_Tonnes,Port_of_Origin
+MAERSK-COLD-01,Refrigerated Pharmaceuticals,420,500,45,Port of Singapore - Cold Chain Terminal,Cold Chain,SUP-112,Rotterdam Netherlands,Critical,2026-04-01,285000,Maersk Eindhoven,320,Shanghai China
+MAERSK-COLD-02,Vaccine Cold Storage Units,40,300,25,Port of Singapore - Cold Chain Terminal,Cold Chain,SUP-112,Hamburg Germany,Critical,2026-03-15,195000,Maersk Skauen,85,Busan South Korea
+MAERSK-COLD-03,Chilled Blood Products,25,150,15,Port of Singapore - Cold Chain Terminal,Cold Chain,SUP-112,London UK,Critical,2026-03-10,142000,Maersk Eindhoven,45,Tokyo Japan
+MAERSK-COLD-04,Frozen Seafood Cargo,85,300,70,Rotterdam Terminal A - Cold Chain,Cold Chain,SUP-156,New York USA,High,2026-04-05,98000,Maersk Taurus,180,Oslo Norway
+MAERSK-COLD-05,Chilled Insulin Storage,55,300,20,Port of Singapore - Cold Chain Terminal,Cold Chain,SUP-112,Dubai UAE,Critical,2026-03-28,210000,Maersk Skauen,95,Mumbai India
+EVERGREEN-HVYG-01,Raw Steel Coils,3200,4000,280,Hamburg Warehouse C - Heavy Goods,Heavy Goods,SUP-312,Shanghai China,High,2026-04-10,175000,Ever Given,2800,Rotterdam Netherlands
+EVERGREEN-HVYG-02,Wind Turbine Blades,1800,2000,130,Hamburg Warehouse C - Heavy Goods,Heavy Goods,SUP-289,Los Angeles USA,High,2026-04-08,220000,Ever Ace,1650,Hamburg Germany
+EVERGREEN-HVYG-03,Heavy Mining Machinery,370,400,40,Hamburg Warehouse F - Heavy Goods,Heavy Goods,SUP-367,Johannesburg South Africa,Critical,2026-03-18,312000,Ever Forward,890,Hamburg Germany
+COSCO-HZMT-01,Industrial Solvents,310,400,55,Shanghai Hazmat Zone D,Hazardous Materials,SUP-078,Rotterdam Netherlands,High,2026-04-06,145000,COSCO Shipping Universe,420,Shanghai China
+COSCO-HZMT-02,Crude Oil Drums,520,600,50,Shanghai Hazmat Zone D,Hazardous Materials,SUP-078,Singapore,Critical,2026-03-25,289000,COSCO Shipping Universe,780,Shanghai China
+COSCO-HZMT-03,Chlorine Gas Cylinders,180,200,15,Shanghai Hazmat Zone D,Hazardous Materials,SUP-078,Rotterdam Netherlands,Critical,2026-03-22,198000,COSCO Shipping Universe,290,Shanghai China
+COSCO-HZMT-04,Radioactive Medical Isotopes,45,100,10,Rotterdam Terminal C - Medical Grade,Hazardous Materials,SUP-091,London UK,Critical,2026-03-12,425000,COSCO Shipping Planet,120,Rotterdam Netherlands
+MSC-HVLT-01,Semiconductor Wafers,880,1000,95,Rotterdam Terminal B - High Value Vault,High Value Cargo,SUP-089,Tokyo Japan,Critical,2026-04-14,520000,MSC Gulsun,285,Rotterdam Netherlands
+MSC-HVLT-02,Consumer Electronics,760,800,85,Dubai Terminal A - High Value Vault,High Value Cargo,SUP-134,New York USA,Critical,2026-04-13,380000,MSC Loreto,420,Dubai UAE
+MSC-HVLT-03,Luxury Watches,95,200,20,Dubai Terminal A - High Value Vault,High Value Cargo,SUP-445,Paris France,High,2026-04-07,650000,MSC Gulsun,45,Geneva Switzerland
+MSC-HVLT-04,Diamond and Gemstone Cargo,30,100,8,Dubai Terminal A - High Value Vault,High Value Cargo,SUP-445,Geneva Switzerland,Critical,2026-03-08,1250000,MSC Loreto,25,Antwerp Belgium
+MSC-HVLT-05,Electric Vehicle Batteries,760,800,80,Dubai Terminal B - High Value Vault,High Value Cargo,SUP-089,Frankfurt Germany,Critical,2026-04-16,420000,MSC Loreto,580,Shenzhen China
+MSC-HVLT-06,Microprocessor Units,940,1000,100,Shanghai Terminal B - High Value Vault,High Value Cargo,SUP-334,San Jose USA,Critical,2026-04-17,615000,MSC Gulsun,320,Shanghai China
+HAPAG-GENL-01,Textile and Apparel,520,600,65,Los Angeles Warehouse E - General,General Cargo,SUP-223,Chicago USA,Medium,2026-04-10,85000,Hapag Hamburg,380,Guangzhou China
+HAPAG-GENL-02,Bottled Mineral Water,430,500,90,Los Angeles Warehouse E - General,General Cargo,SUP-198,Vancouver Canada,Low,2026-04-12,42000,Hapag Berlin,520,Los Angeles USA
+HAPAG-GENL-03,Coffee and Cocoa Beans,380,500,60,Felixstowe Warehouse E - General,General Cargo,SUP-198,Amsterdam Netherlands,Medium,2026-04-07,71000,Hapag Hamburg,420,Santos Brazil
+HAPAG-GENL-04,Dry Bulk Grains,440,500,75,Felixstowe Warehouse E - General,General Cargo,SUP-198,Cairo Egypt,Low,2026-04-14,58000,Hapag Berlin,480,Buenos Aires Argentina
+CMA-COLD-01,Perishable Tropical Fruits,60,250,80,Port of Singapore - Cold Chain Terminal,Cold Chain,SUP-167,Tokyo Japan,High,2026-04-16,88000,CMA CGM Antoine,95,Bangkok Thailand
+CMA-COLD-02,Organic Fresh Produce,80,200,60,Port of Singapore - Cold Chain Terminal,Cold Chain,SUP-178,Seoul South Korea,High,2026-04-15,76000,CMA CGM Marco Polo,110,Singapore
+CMA-COLD-03,Frozen Poultry Products,55,300,75,Rotterdam Terminal A - Cold Chain,Cold Chain,SUP-156,Moscow Russia,Medium,2026-04-10,92000,CMA CGM Antoine,180,Rotterdam Netherlands
+CMA-COLD-04,Chilled Fresh Meat,70,250,65,Rotterdam Terminal A - Cold Chain,Cold Chain,SUP-167,Stockholm Sweden,Medium,2026-04-09,91000,CMA CGM Antoine,160,Buenos Aires Argentina
+ONE-HVYG-01,Copper Wire Rolls,1100,1500,100,Felixstowe Warehouse F - Heavy Goods,Heavy Goods,SUP-312,Lagos Nigeria,Medium,2026-04-08,138000,ONE Apus,980,Zambia Africa
+ONE-HVYG-02,Cement and Aggregates,1700,2000,140,Felixstowe Warehouse G - Heavy Goods,Heavy Goods,SUP-289,Nairobi Kenya,Medium,2026-04-06,112000,ONE Columba,1850,Felixstowe UK
+ONE-HVYG-03,Automotive Parts,1200,1500,110,Hamburg Warehouse C - Heavy Goods,Heavy Goods,SUP-201,Detroit USA,High,2026-04-10,158000,ONE Apus,1100,Stuttgart Germany
+ONE-HVYG-04,Retail Fashion Stock,540,600,65,Los Angeles Warehouse E - General,General Cargo,SUP-223,New York USA,Medium,2026-04-12,95000,ONE Columba,380,Hong Kong China
